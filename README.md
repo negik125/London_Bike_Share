@@ -9,8 +9,11 @@ Steps followed to reach  the conclusion :
 • Figure out what columns correlation need to be assesed.
 
 • Find out the correlation analysis and regression analysis.
+
 • Upload the data in tableau and create dashboards.
+
 • Formulate the data and create visualizations.
+
 • Considering all the facts and figures drive precise conclusions.
 
 
